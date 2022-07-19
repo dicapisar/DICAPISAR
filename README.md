@@ -1,6 +1,6 @@
 # Welcome to my GitHub!! ✌🏽😎👾
-I am a programming enthusiast, I have worked on several projects with different development languages. 👀
----
+<img width="100%" src="https://github.com/DICAPISAR/DICAPISAR/blob/master/dicapisar.gif" />
+
 <table width="100%" border="0" cellpadding="5">
     <tr>
         <td>
