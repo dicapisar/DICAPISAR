@@ -28,7 +28,7 @@ I am a programming enthusiast, I have worked on several projects with different 
             <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" />
         </td>
         <td>
-            <img width="50" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" />
+            <img width="50" src="https://pbs.twimg.com/profile_images/1365435380758163456/MwryCZuw_400x400.png" />
         </td>
         <td>
             <img width="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
