@@ -1,9 +1,6 @@
 # Welcome to my GitHub!! ✌🏽😎👾
 
-
-![Captura de pantalla 2023-01-07 a la(s) 7 28 42 a m](https://user-images.githubusercontent.com/63562180/211150796-9eafa853-bf6b-4194-95cf-c392d72fd72a.png)
-
-
+![banner_v3_linkdin](https://user-images.githubusercontent.com/63562180/211209242-75897fb9-ed91-4018-8b36-38e96daa3254.png)
 
 
 <!--<img width="100%" src="https://github.com/DICAPISAR/DICAPISAR/blob/master/dicapisar.gif" />-->
